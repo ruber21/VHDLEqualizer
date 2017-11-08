@@ -1,0 +1,18 @@
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>ERR</sub_system>
+	<file>q:\quartus\ccl\msg\msg_internal_error.cpp</file>
+	<line>732</line>
+	<callstack>
+	0x048208c5: synth_sgn + 0xa08c5 (?sgn_start@@YA_NPAVCMP_FACADE@@ABV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@ABV?$vector@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@V?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@@@@3@ABV?$vector@W4SMART_ACTION@HDB_CMP_ACTION_PT_INSTANCE@@V?$MEM_STL_ALLOCATOR@W4SMART_ACTION@HDB_CMP_ACTION_PT_INSTANCE@@@@@3@@Z + 0x9eb35)
+	</callstack>
+	<error>*** Fatal Error: Access Violation at 0X048208C5
+Module: quartus_map.exe</error>
+	<date>Tue Nov 07 17:53:07 2017</date>
+	<version>Quartus II Version 7.2 Build 151 09/26/2007 SJ Web Edition</version>
+	<full_error>
+*** Fatal Error: Access Violation at 0X048208C5
+Module: quartus_map.exe
+Quartus II Version 7.2 Build 151 09/26/2007 SJ Web Edition </full_error>
+</internal_error>
+

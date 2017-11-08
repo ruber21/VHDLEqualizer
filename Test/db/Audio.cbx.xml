@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Audio">
+		<CBX_INST_ENTRY INSTANCE_NAME="|audio1|I2C_AV_Config:u3|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_3av.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
